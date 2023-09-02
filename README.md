@@ -1,2 +1,3 @@
 # Desafio-conta-banco
- Simulando Uma Conta Bancária Através Do Terminal/Console
+Conclusão do desafio de simular uma conta bancária via terminal, onde o usuário insere seus dados e recebe
+uma mensagem lhe informando os mesmos.
